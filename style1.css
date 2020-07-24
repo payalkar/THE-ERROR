@@ -1,0 +1,37 @@
+body{
+    background-image: url(ig.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  h1{
+      text-align: center;
+      color: rgb(223, 10, 92);
+      margin-top: 1em;
+      font-size: 3rem;
+      font-family: Comic Sans MS;
+  }
+  .intro{
+    position: absolute; 
+    visibility: visible;
+    text-align: left; 
+    left: 50rem; 
+    top: 13.4em; 
+    height: 190px; 
+    width: 600px; 
+    z-index: 200;
+    font-size: 2rem;
+    font-family: Comic Sans MS;
+    color: rgb(4, 248, 106);
+    margin-bottom: none;
+}
+  .start{
+      margin-top: .25em;
+      margin-left: 6em;
+      padding: 1px 25px 1px 25px;
+      border-radius: 25px;
+      border: 2px solid rgb(144, 165, 26);
+      background-color: rgb(144, 165, 26);
+      font-size: 40px;
+      color: rgb(49, 3, 80);
+  }
